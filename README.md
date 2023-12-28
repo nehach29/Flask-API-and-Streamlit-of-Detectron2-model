@@ -24,7 +24,7 @@ The images below are the models prediction to detect the two classes 'Mask' and 
 ![annotated image 1](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/103c25c6-5d40-4888-baab-92f8147066c2)
 
 # Original image
-![annotated image 1](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/8b32bd0d-173d-45f1-b293-3b70be1e64c2)
+![predicted image2](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/775cac8a-b4e5-4006-9f03-dcd7dc598583)
 
 # Predicted annoatations 
 ![annotated image 2](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/3cbcfb1e-7dbd-4dbb-a347-ed57c7a5dce4)
