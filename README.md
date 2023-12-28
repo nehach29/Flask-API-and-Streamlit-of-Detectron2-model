@@ -39,10 +39,11 @@ On testing images the model is able to get around 21% AP (Average Precision)
 ![testing](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/03175941-1640-4b8d-bbf9-42efcc552bb6)
 
 # Flask Output
-![flask image1](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/937048f2-ee37-48a3-9186-ba666a29f247)
-![flask image 2](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/5d6eb830-8f05-45ee-b7ba-aff7dfbfc058)
-![flask image 3](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/0c62d623-791f-4434-92f7-403db42dd355)
-![flask image 4](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/3aa426f4-cb4a-4b94-b0b4-9d19e2b29ba5)
+![flask image1](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/6bdc050c-880a-47d6-b0d5-0442bcdd4489)
+![flask image2](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/a741d613-ee64-4cf0-a9c8-f471afaba550)
+![flask image 3](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/2d7abec0-c49e-401a-bb7a-d8f8c56fe631)
+![flask image4](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/769104f9-7ec0-4d56-be6c-d3b354ee3235)
+
 
 
 
