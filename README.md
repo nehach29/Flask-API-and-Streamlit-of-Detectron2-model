@@ -44,6 +44,22 @@ On testing images the model is able to get around 21% AP (Average Precision)
 ![flask image 3](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/2d7abec0-c49e-401a-bb7a-d8f8c56fe631)
 ![flask image4](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/769104f9-7ec0-4d56-be6c-d3b354ee3235)
 
+# Streamlit API
+#
+For this model a Streamlit API is created to interact to the model over internet.
+
+# User Interface of Flask API
+![streamlit](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/d2d0909b-1d00-452f-b12e-24d7dc7a5d15)
+
+
+Once you upload an image it will caption it with the text uploaded images and provide a predict button to predict the classes in the images
+
+# Results on Streamlit API
+![image1](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/c54f9af0-a6fc-44a8-81d9-9a69e947f356)
+![image1 output](https://github.com/nehach29/Flask-API-and-Streamlit-of-Detectron2-model/assets/109617232/3adb6dc7-79c8-4dc4-abe6-8fcdb2c5fc3c)
+
+
+# THANK YOU 
 
 
 
